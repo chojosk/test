@@ -1,3 +1,12 @@
-안녕하세요.
-저는 조석기입니다.
-연필을 누르세요!
+git은 버전 관리 프로그램입니다.
+로컬에서 git add . => git commit -m ""
+
+github는 클라우드입니다.
+
+<학교 PC와 동기화>
+집 PC 폴더 생성
+git init
+git remote ~~
+git pull
+git push
+
